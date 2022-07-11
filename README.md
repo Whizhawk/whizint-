@@ -1,0 +1,28 @@
+# whizint-
+Whizint is a tool that helps to install all packages in just a click. Super user friendly and helpful for beginners as well as pro hackers because it's save time. 
+--------------( How to use and some Details )--------------
+
+        * WHIZINT is a simple tool use for download all important
+          packages in just a click. Super user friendly simple
+          but helpful for begginers as well as  Pro Hackers
+          because its save time and ya :) its new after some
+          I add more packages in it.So don't worry just use it.:)
+
+        -------------------( USAGE THE TOOL )------------------
+
+        * As I said that this is a simple script thats why its not so
+          Hard to use just follow the following steps ¬}
+
+          1) execute the tool by using chmod +x whizint.sh
+          2) Then, type Any of the following. :)
+                * bash whizint.sh (Recommended)
+                * ./whizint.sh
+                * whizint.sh
+          3) Finally, the interface of tool appear in your screen Now
+             Choose whatever you want.
+
+
+                This Tool work in Both linux and Termux :)
+
+                For Hacking Tutorials come on channel name is 👇
+                                        Tool by -: W H I Z H A W K
